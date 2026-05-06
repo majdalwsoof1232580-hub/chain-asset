@@ -1,4 +1,4 @@
-name: Upload Assets
+moname: Upload Assets
 on:
   push:
     branches: ["main"]
